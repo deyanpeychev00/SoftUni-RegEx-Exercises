@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Extract Emails", "01. Extract Emails\01. Extract Emails.csproj", "{77DA41B4-710B-4304-B61A-40F22E4E4692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Extract Sentences by Keyword", "02. Extract Sentences by Keyword\02. Extract Sentences by Keyword.csproj", "{46D06FE2-5ED0-4EE5-8FB5-F3FA10FD81F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Valid Usernames", "03. Valid Usernames\03. Valid Usernames.csproj", "{64B7F7D0-8B6A-4CA3-A779-FC9327EEBF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. ^Use Your Chains, Buddy", "05. ^Use Your Chains, Buddy\05. ^Use Your Chains, Buddy.csproj", "{20200FBF-09A1-4C98-AA6F-915D2698FB21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77DA41B4-710B-4304-B61A-40F22E4E4692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DA41B4-710B-4304-B61A-40F22E4E4692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DA41B4-710B-4304-B61A-40F22E4E4692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DA41B4-710B-4304-B61A-40F22E4E4692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D06FE2-5ED0-4EE5-8FB5-F3FA10FD81F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D06FE2-5ED0-4EE5-8FB5-F3FA10FD81F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D06FE2-5ED0-4EE5-8FB5-F3FA10FD81F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D06FE2-5ED0-4EE5-8FB5-F3FA10FD81F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B7F7D0-8B6A-4CA3-A779-FC9327EEBF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B7F7D0-8B6A-4CA3-A779-FC9327EEBF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B7F7D0-8B6A-4CA3-A779-FC9327EEBF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B7F7D0-8B6A-4CA3-A779-FC9327EEBF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20200FBF-09A1-4C98-AA6F-915D2698FB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20200FBF-09A1-4C98-AA6F-915D2698FB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20200FBF-09A1-4C98-AA6F-915D2698FB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20200FBF-09A1-4C98-AA6F-915D2698FB21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
